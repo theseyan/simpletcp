@@ -1,0 +1,22 @@
+{
+  "name": "simpletcp",
+  "version": "1.0.0",
+  "description": "A lightweight library for easy machine-machine communication through TCP",
+  "main": "SimpleTCP.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tekyon-Org/SimpleTCP.git"
+  },
+  "author": "Tekyon Organization",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Tekyon-Org/SimpleTCP/issues"
+  },
+  "homepage": "https://github.com/Tekyon-Org/SimpleTCP#readme"
+}
